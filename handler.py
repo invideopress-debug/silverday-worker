@@ -13,6 +13,7 @@ import tempfile
 from typing import Any
 
 import boto3
+from botocore.config import Config
 import requests
 import runpod
 
